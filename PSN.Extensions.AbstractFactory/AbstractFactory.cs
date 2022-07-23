@@ -9,6 +9,10 @@ public class AbstractFactory<T> : IAbstractFactory<T> where T : class
         _factory = factory;
     }
     
+    /// <summary>
+    /// Creates an instance of the type T.
+    /// </summary>
+    /// <returns>T</returns>
     public T Create()
     {
         return _factory();
