@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSN.Extensions.AbstractFactory", "PSN.Extensions.AbstractFactory\PSN.Extensions.AbstractFactory.csproj", "{7974214A-A365-474E-A56D-A046543CC4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7974214A-A365-474E-A56D-A046543CC4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7974214A-A365-474E-A56D-A046543CC4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7974214A-A365-474E-A56D-A046543CC4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7974214A-A365-474E-A56D-A046543CC4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
